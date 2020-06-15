@@ -11,8 +11,8 @@ We define "Correct brackets" as follows:
 
 Correct brackets are:  
 a) () - left bracket (to the right bracket)  
-b) (<correct brackets>) - left bracket (to correct brackets, to right bracket)  
-c) <correct brackets> <correct brackets> - correct brackets to correct brackets  
+b) (< correct brackets >) - left bracket (to correct brackets, to right bracket)  
+c) < correct brackets > < correct brackets > - correct brackets to correct brackets  
   
 In the language of your choice, write a program that reads from the standard input a submitted string and returns whether that string  
 is "Correct Brackets".
@@ -25,6 +25,6 @@ In a language of your choice, write a program that reads from the standard input
 - the coordinates of the rotten apples
 - in how many days you will return to your house  
 
-Find out what the tape looks like after this period.
+Find out what the tape looks like after this period.  
 O - fresh apple  
 X - rotten apple
