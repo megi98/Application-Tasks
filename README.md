@@ -14,8 +14,7 @@ a) () - left bracket (to the right bracket)
 b) (< correct brackets >) - left bracket (to correct brackets, to right bracket)  
 c) < correct brackets > < correct brackets > - correct brackets to correct brackets  
   
-In the language of your choice, write a program that reads from the standard input a submitted string and returns whether that string  
-is "Correct Brackets".
+In the language of your choice, write a program that reads from the standard input a submitted string and returns whether that string is "Correct Brackets".
   
 ### 3.Rotting Apples
 You know that if an apple is rotten, in 3 days all the apples around it will be rotten.  
